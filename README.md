@@ -2,6 +2,6 @@
 - 👀 I’m interested in using python to solve mathematical problems involving numbers
 - 🌱 I’m currently working with python
 - 💞️ I’m looking to collaborate on anything involving mathematics and numbers
-- 📫 If you want to find my works just visit the public repository Project-Python-ate-the-Plus-Sign
-- 🏖️ If you want to reach me drop me a mail on archishmandash@gmail.com
+- 📫 If you want to find my works just visit the public repository named 'Project-Python-ate-the-Plus-Sign'
+- 🏖️ If you want to reach me drop me a mail on 'archishmandash@gmail.com'
 - 🎷 Thank you for reading this
